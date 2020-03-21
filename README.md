@@ -11,6 +11,7 @@ If you have a hackathon to add, add it to an issue or make a pull request!
 * https://github.com/virtual-biohackathons/covid-19-bh20/wiki
 * https://www.kaggle.com/tags/covid19
 * https://www.machinehack.com/course/covid-19-forecasting-the-corona-outbreak/Rules
+* https://www.agorize.com/en/challenges/code-life-challenge?t=nlalEJjOc1pDmRCro-y3JA&fbclid=IwAR0S-ucat-yV_ZxeKPPawfvnV1irCipGAo06VEGin4iDhxslB7gxJ63QYho
 
 ## Europe ##
 
