@@ -31,6 +31,7 @@ If you have a hackathon to add, add it to an issue or make a pull request!
 * https://growplus.com.br/hack-for-brazil-covid-19-online-hackathon/
 * https://megahackcovid19economia.shawee.io/#join
 * https://www.tecnosinos.com.br/news/1o-hackathon-desafio-covid-19/
+* https://github.com/RespiradorHacker
 
 ## Anglo America ##
 
