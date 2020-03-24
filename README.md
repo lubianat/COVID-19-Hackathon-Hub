@@ -4,6 +4,11 @@ The goal here is to gather the Hackathons and open projects that are going on to
 ## Contribute
 If you have a hackathon to add, add it to an issue or make a pull request!
 
+# Project / Hackathon / Challenge aggregates:
+
+* https://www.wetech-alliance.com/2020/03/22/innovators-wanted-6-challenges-open-to-innovators-developers-and-tech-community-to-help-solve-covid-19-problems/?utm_source=District%203&utm_campaign=7b7a3d6c59-EMAIL_CAMPAIGN_2019_08_13_03_22_COPY_01&utm_medium=email&utm_term=0_8e38149fdd-7b7a3d6c59-132920457&mc_cid=7b7a3d6c59&mc_eid=790054f0a6&fbclid=IwAR2IfrZfKXlmyBuVE8zhWu26xwX7_ZOrOTdZmcwjbJnfOBASOjiVfLG4plk
+
+
 # Current Hackathons (as of 21/03/2020)
 
 ## Globe ##
